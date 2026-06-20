@@ -1,4 +1,3 @@
-#Shortcut Configuration
 ---
 name: "makeshortcut"
 description: "Global shortcut key configuration for editor, extended full functional shortcut list"
